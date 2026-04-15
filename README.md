@@ -56,8 +56,16 @@ This project analyzes the sales performance and customer behavior of Adventure W
 ---
 
 ## 📁 Files Included
+### 📊 Dashboard & Presentation
 - `AdventureWorks_Dashboard.pbix` – Power BI Dashboard  
-- `PowerBI_Insights_Presentation.pptx` – Project Presentation  
+- `PowerBI_Insights_Presentation.pptx` – Project Presentation
+
+  ### 📂 Dataset Files
+- `Sales.csv` – Sales transaction data (fact table)  
+- `Customer.csv` – Customer information  
+- `Products.csv` – Product details  
+- `Calendar.csv` – Date and time-related data  
+- `SalesTerritory.csv` – Geographic sales information  
 
 ---
 
