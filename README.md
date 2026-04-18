@@ -10,8 +10,7 @@
 ---
 
 ## 📌 Project Overview
-This project analyzes the sales performance and customer behavior of Adventure Works Cycles using Power BI. The objective is to derive meaningful business insights and support data-driven decision-making.
-
+This project analyzes the sales performance, customer behavior, and product performance of Adventure Works Cycles using Power BI. The objective is to derive meaningful business insights and support data-driven decision-making.
 ---
 
 ## 🧩 Data Model
@@ -40,12 +39,21 @@ This project analyzes the sales performance and customer behavior of Adventure W
 
 ---
 
-## 🎯 Strategic Insights
-- High dependency on Bikes category creates **concentration risk**
-- Limited geographic diversification presents expansion opportunities
-- Balanced customer base indicates stability but limits premium segmentation
-- Growth can be driven through product diversification and market expansion
+## 📦 Product Insights
+- Sales are driven by a few key subcategories and products
+- Profitability varies across categories, indicating differences in cost structure
+- Both high-price and low-price products contribute to revenue
+- Top products generate a significant share of total profit
+- Strong relationship between product sales and profit indicates consistent margins
 
+---
+
+## 🎯 Strategic Insights
+-  High dependency on Bikes category creates concentration risk
+- Limited geographic diversification presents expansion opportunities
+- Product-level analysis shows uneven contribution across products
+- Balanced customer base indicates stability
+- Growth can be driven through product diversification and market expansion
 ---
 
 ## 🛠 Tools & Technologies Used
